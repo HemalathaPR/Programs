@@ -1,6 +1,6 @@
 public class Spearate_no_up_lc_spechar {
     public static void main(String[] args) {
-        String s = "sa@n*hie63LO85@$52";
+        String s = "asdfgh!@7899654#$";
         String no = "";
         String up = "";
         String lc = "";
